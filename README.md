@@ -21,6 +21,7 @@ DevOps Engineer with 5 years of experience building and managing cloud-native so
 
 ---
 
-### 🎧 Spotify Playing
-
-[![Spotify](https://novatorem-two.vercel.app/api/spotify-playing)](https://open.spotify.com/user/1197066880)
+<p align="center">
+  <b>🎧 Spotify Playing</b><br><br>
+  <a href="https://open.spotify.com/user/1197066880"><img src="https://novatorem-two.vercel.app/api/spotify-playing" alt="Spotify Playing" /></a>
+</p>
