@@ -1,5 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=Hi+there%2C+I'm+Szymon+%F0%9F%91%8B;aka+Paszymaja;DevOps+Engineer;Cloud-Native+Enthusiast)](https://git.io/typing-svg)
 
+DevOps Engineer with 5 years of experience building and managing cloud-native solutions. Based in Gliwice, Poland 🇵🇱. Graduate of Silesian University of Technology.
+
 [![LinkedIn](https://img.shields.io/badge/linkedin-Szymon%20Przepióra-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/szymon-przepiora/)
 [![E-Mail](https://img.shields.io/badge/email-reveal-369?style=flat-square&logo=gmail&logoColor=white)](https://mailhide.io/e/7329N)
 [![Spotify](https://img.shields.io/badge/spotify-Paszymaja-1DB954?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/user/1197066880)
@@ -19,9 +21,6 @@
 
 ---
 
-<table>
-  <tr>
-    <td align="center"><b>📊 GitHub Streak</b><br><br><img src="https://streak-stats.demolab.com?user=Paszymaja&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" /></td>
-    <td align="center"><b>🎧 Spotify Playing</b><br><br><a href="https://open.spotify.com/user/1197066880"><img src="https://novatorem-two.vercel.app/api/spotify-playing" alt="Spotify Playing" /></a></td>
-  </tr>
-</table>
+### 🎧 Spotify Playing
+
+[![Spotify](https://novatorem-two.vercel.app/api/spotify-playing)](https://open.spotify.com/user/1197066880)
