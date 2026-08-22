@@ -18,10 +18,3 @@ DevOps Engineer with 5 years of experience building and managing cloud-native so
 ![Helm](https://img.shields.io/badge/helm-%230F1689.svg?style=flat-square&logo=helm&logoColor=white)
 ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=flat-square&logo=linux&logoColor=black)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232088FF.svg?style=flat-square&logo=githubactions&logoColor=white)
-
----
-
-<p align="center">
-  <b>🎧 Spotify Playing</b><br><br>
-  <a href="https://open.spotify.com/user/1197066880"><img src="https://novatorem-two.vercel.app/api/spotify-playing" alt="Spotify Playing" /></a>
-</p>
